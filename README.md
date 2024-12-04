@@ -35,6 +35,7 @@ Aqui se notifica que la compra se realizo exitosamente, en caso contrario se not
 <h1 align="center"> Crear café. </h1>
 
 Este Layout es donde el cliente puede crear su cafe con un nombre personalizado e ingredientes al gusto, seleccionandolos en un spinner, además de poder agregarlo al carrito respectivamente.
+
 ![Splash crear cafe](imagen/6.png)
 
 <h1 align="center"> Confirmación y confirmación. </h1>
