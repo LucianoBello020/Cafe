@@ -40,11 +40,13 @@ además de poder agregarlo al carrito respectivamente.
 <h1 align="center"> Confirmación y confirmación. </h1>
 
 Se notifica que el cafe personalizado se agrego exitosamente al carrito de compra.
+
 ![Confirmacion crear cafe al carrito](imagen/7.png)
 
 <h1 align="center"> Producto personalizado en el carrito </h1>
 
 Asi se visualiza el Producto agregado.
+
 ![Cafe Personalizado](imagen/8.png)
 
 <h1 align="center"> Datos recibidos en FireBase </h1>
