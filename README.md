@@ -21,4 +21,4 @@ además cada vez que se le da click al boton de agregar al carrito se crea una l
 
 ![Firebase recepción de datos](imagen/9.png)
 
-![Mqtt recepción de datos](imagen/10.png)
+![Mqtt recepción de datos](imagen/10.jpeg)
