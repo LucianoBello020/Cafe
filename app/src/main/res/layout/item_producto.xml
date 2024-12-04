@@ -1,0 +1,45 @@
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:elevation="4dp"
+    android:radius="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Imagen del producto -->
+        <ImageView
+            android:id="@+id/image_producto"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="12dp"/>
+
+        <!-- Nombre del producto -->
+        <TextView
+            android:id="@+id/text_nombre_producto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <!-- Precio del producto -->
+        <TextView
+            android:id="@+id/text_precio_producto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"/>
+
+        <!-- Botón de agregar al carrito -->
+        <Button
+            android:id="@+id/button_agregar_carrito"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Agregar al Carrito"/>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

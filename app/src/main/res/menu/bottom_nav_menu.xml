@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_tienda"
+        android:icon="@drawable/ic_shopping_cart"
+        android:title="Tienda" />
+    <item
+        android:id="@+id/nav_crear_cafe"
+        android:icon="@drawable/ic_create"
+        android:title="Crea tu Café" />
+    <item
+        android:id="@+id/nav_carrito"
+        android:icon="@drawable/ic_cart"
+        android:title="Carrito" />
+</menu>

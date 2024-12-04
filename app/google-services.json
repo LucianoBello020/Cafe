@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "874532351837",
+    "firebase_url": "https://cafe-final-default-rtdb.firebaseio.com",
+    "project_id": "cafe-final",
+    "storage_bucket": "cafe-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874532351837:android:8e597a571762321d9782b4",
+        "android_client_info": {
+          "package_name": "com.lucianobello.cafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArJ_T4OkSGpKWYmQJ4epWifgH84nFllXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

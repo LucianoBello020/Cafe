@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Café</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="seleccionar_ingrediente">Selecciona un ingrediente</string>
+    <string name="ingrediente_1">Leche</string>
+    <string name="ingrediente_2">Azúcar</string>
+    <string name="ingrediente_3">Vainilla</string>
+
+    <string-array name="ingredientes_array">
+        <item>Leche</item>
+        <item>Azúcar</item>
+        <item>Chocolate</item>
+        <item>Vainilla</item>
+        <item>Caramelo</item>
+        <item>Canela</item>
+    </string-array>
+</resources>
