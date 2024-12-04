@@ -18,7 +18,7 @@ Este es el menu de mi aplicación donde se encuentra una lista de productos y su
 
 <h1 align="center"> Confirmación. </h1>
 
-Esta notificación se muestra cuando un producto se ingresa correctamente a mi carrito de compra. en caso contrario se notifica el error.
+Esta notificación se muestra cuando un producto se ingresa correctamente a mi carrito de compra en caso contrario se notifica el error.
 ![Confirmación de agregar al carrito](imagen/3.png)
 
 <h1 align="center"> Carrito compra. </h1>
