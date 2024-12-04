@@ -6,6 +6,7 @@ además cada vez que se le da click al boton de agregar al carrito se crea una l
 #Evidencia de la funcionalidad de la Aplicación android.
 
 Aqui se visualiza el splash layout.
+<h1 align="center"> Su título aquí </h1>
 
 ![Splash Layout](imagen/1.png)
 
