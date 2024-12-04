@@ -23,8 +23,7 @@ Esta notificación se muestra cuando un producto se ingresa correctamente a mi c
 
 <h1 align="center"> Carrito compra. </h1>
 
-El carrito de compra se visualiza de la siguente manera, donde se muestra los productos comprados y su respectiva imagen,cantidad,precio y
-un total de compra.
+El carrito de compra se visualiza de la siguente manera, donde se muestra los productos comprados y su respectiva imagen,cantidad,precio y un total de compra.
 ![Carrito](imagen/4.png)
 
 <h1 align="center"> Confirmación y notificación </h1>
