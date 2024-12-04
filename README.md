@@ -28,6 +28,7 @@ un total de compra.
 <h1 align="center"> Confirmación y notificación </h1>
 
 Aqui se notifica que la compra se realizo exitosamente, en caso contrario se notifica el error.
+
 ![Confirmación compra carrito y total](imagen/5.png)
 
 <h1 align="center"> Crear café. </h1>
