@@ -14,16 +14,19 @@ además cada vez que se le da click al boton de agregar al carrito se crea una l
 <h1 align="center"> Menu tienda</h1>
 
 Este es el menu de mi aplicación donde se encuentra una lista de productos y su opción para agregar al carrito.
+
 ![Menu Tienda](imagen/2.png)
 
 <h1 align="center"> Confirmación. </h1>
 
 Esta notificación se muestra cuando un producto se ingresa correctamente a mi carrito de compra en caso contrario se notifica el error.
+
 ![Confirmación de agregar al carrito](imagen/3.png)
 
 <h1 align="center"> Carrito compra. </h1>
 
 El carrito de compra se visualiza de la siguente manera, donde se muestra los productos comprados y su respectiva imagen,cantidad,precio y un total de compra.
+
 ![Carrito](imagen/4.png)
 
 <h1 align="center"> Confirmación y notificación </h1>
